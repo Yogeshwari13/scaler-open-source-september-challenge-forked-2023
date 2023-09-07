@@ -1,1 +1,0 @@
-Created to delete this commit as part of challenge 7
